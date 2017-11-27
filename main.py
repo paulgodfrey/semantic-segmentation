@@ -128,7 +128,7 @@ tests.test_train_nn(train_nn)
 def run():
     num_classes = 2
     image_shape = (160, 576)
-    epochs = 20
+    epochs = 150
     batch_size = 8
 
     data_dir = './data'
